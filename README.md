@@ -6,5 +6,5 @@ Various funtions approximating calculus operations of scalar functions and vecto
 - Derivative (F : R &rarr; R)
 - Riemann Sum (F : R &rarr; R)
 - Curvature (F : R &rarr; R)
-- Curvature (F : R<sup>2</sup> &rarr; R)
-- Line Integral (F : R<sup>2</sup> &rarr; R, q : R<sup>2</sup> &rarr; R)
+- Curvature (F : R &rarr; R<sup>2</sup>)
+- Line Integral (F : R &rarr; R<sup>2</sup>, q : R<sup>2</sup> &rarr; R)
