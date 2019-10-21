@@ -8,3 +8,9 @@ Various funtions approximating calculus operations of scalar functions and vecto
 - Curvature (F : R &rarr; R)
 - Curvature (F : R &rarr; R<sup>2</sup>)
 - Line Integral (F : R &rarr; R<sup>2</sup>, q : R<sup>2</sup> &rarr; R)
+
+## Future plans:
+- Double Riemann Sum (F : R<sup>2</sup> &rarr; R)
+- Curvature (F : R &rarr; R<sup>3</sup>)
+- Line Integral (F : R &rarr; R<sup>2</sup>, q : R<sup>2</sup> &rarr; R<sup>2</sup>)
+- Double Monte-Carlo Integration (F : R<sup>2</sup> &rarr; R)
